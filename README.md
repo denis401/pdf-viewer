@@ -1,0 +1,3 @@
+1 - Project About PDF file viewer and customer can add annotation, texts, color, opacity, sizing, etc...
+2 - First step of project is show PDF lists which is already available inserver
+3 - Second step is click on any PDF file and file will open with features which is explained in step-1
